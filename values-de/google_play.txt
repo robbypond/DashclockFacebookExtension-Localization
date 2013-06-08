@@ -1,0 +1,14 @@
+<b>DashClock Facebook Erweiterung</b> ist eine Erweiterung für DashClock die es dir ermöglicht deine letzten Facebook Benachrichtigungen schnell auf den Lock Screen zu sehen. Du kannst entweder Nachrichten oder Benachrichtigungen oder beides anzeigen, konfigurierbar über die Einstellungen.
+
+Wenn du dich einloggt wird zuerst die read_mailbox Berechtigung angefordert um die Anzahl der ungelesen Inbox Nachrichten zu lesen. Als nächstes wird die manage_notifications Benachrichtigung angefordert. Diese müssen separat angefordert werden weil eine in der Kategorie read und eine in der Kategorie publish angesiedelt ist. Diese App liest nur Nachrichten/Benachrichtigungen. Die App nutzt diese Berechtigungen nicht um irgend etwas an deiner Facebook Wall zu posten.
+
+<b>Übersetzungen</b>:
+https://github.com/rpond/DashclockFacebookExtension-Localization
+Danke!
+
+DashClock Facebook Erweiterung benötigt DashClock Widget von Roman Nurik: http://play.google.com/store/apps/details?id=net.nurik.roman.dashclock
+
+Sende Probleme oder Feature Requests:
+https://bitbucket.org/rpond/dashclockfacebookextension/issues
+
+Danke an John Seidner für die neuen Icons!
