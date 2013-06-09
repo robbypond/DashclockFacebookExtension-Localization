@@ -1,0 +1,16 @@
+<b>DashClock Facebook Extension</b> è un estensione per DashClock che ti permette di vedere velocemente le tue notifiche di facebook nella lock screen. Puoi vedere messaggi o notifiche, entrambi configurabili tramite le preferenze dell'applicazione.
+
+Una volta effettuato il login, verrà richiesta la permission "read_mailbox" che permette di vedere il numero di notifiche non lette. Successivamente richiederò l'accesso a "manage_notifications".
+
+Queste due permission devono essere richieste in maniera separata poichè una è in lettura e l'altra in scrittura. L'applicazione legge solamente i messaggi/le notifiche. Non utilizzo tali permessi per pubblicare nessun post nel tuo profilo facebook.
+
+<b>Traduzione</b>:
+https://github.com/rpond/DashclockFacebookExtension-Localization
+Grazie!
+
+DashClock Facebook Extension necessita dell'app DashClock Widget di Roman Nurik: http://play.google.com/store/apps/details?id=net.nurik.roman.dashclock
+
+Problemi? Richieste di funzionalità?:
+https://bitbucket.org/rpond/dashclockfacebookextension/issues
+
+Grazie a John Seidner per le nuove icone!
