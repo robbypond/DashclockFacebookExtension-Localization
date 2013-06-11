@@ -1,0 +1,14 @@
+<b>DashClock Facebook Extensie</b> is een Dashclock extensie waarmee je je laatste Facebook notificaties op je lockscreen kunt zien. Bij de voorkeuren kun je ervoor kiezen om berichten, notificaties of beiden weer te geven.
+
+Bij het inloggen wordt er eerst om de 'read_mailbox' permissie gevraagd om het aantal ongelezen berichten op te halen, en vervolgens wordt er om de 'manage_notifications' permissie gevraagd. Deze applicatie leest alleen berichten/notificaties. De permissies worden niet gebruikt om berichten op je Facebook feed te plaatsen.
+
+<b>Vertalingen:</b>
+https://github.com/rpond/DashclockFacebookExtension-Localization
+Bedankt!
+
+DashClock Facebook Extensie werkt alleen met DashClock Widget by Roman Nurik: http://play.google.com/store/apps/details?id=net.nurik.roman.dashclock
+
+Meld fouten/vraag features aan:
+https://bitbucket.org/rpond/dashclockfacebookextension/issues
+
+John Seidner, bedankt voor de nieuwe iconen!
