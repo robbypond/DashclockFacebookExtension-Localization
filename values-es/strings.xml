@@ -3,13 +3,13 @@
 
     <string name="pref_key_name" translatable="false">pref_key_name</string>
     <string name="pref_key_logged_in" translatable="false">pref_key_logged_in</string>
-    <string name="not_logged_in">Not Logged In</string>
-    <string name="logged_in_as">Logged In As</string>
-    <string name="title_notification_types">Notification Types</string>
+    <string name="not_logged_in">No se ha iniciado sesión</string>
+    <string name="logged_in_as">Sesión Iniciada Como</string>
+    <string name="title_notification_types">Tipos de Notificación</string>
 
     <string-array name="notification_types">
-        <item>Messages</item>
-        <item>Notifications</item>
+        <item>Mensajes</item>
+        <item>Notificaciones</item>
     </string-array>
     <string-array name="notification_type_values" translatable="false">
         <item>0</item>
@@ -17,10 +17,10 @@
     </string-array>
 
     <string name="pref_key_notification_types" translatable="false">pref_key_notification_types</string>
-    <string name="app_name" translatable="false">DashClock for Facebook</string>
+    <string name="app_name" translatable="false">DashClock para Facebook</string>
     <string name="app_id" translatable="false">169250303222903</string>
-    <string name="extension_description">View your latest messages or notifications from Facebook</string>
-    <string name="extension_title">Facebook Updates</string>
+    <string name="extension_description">Ver últimos mensajes o notificaciones de Facebook</string>
+    <string name="extension_title">Actualizaciones de Facebook</string>
     <string name="app_name_and_version" translatable="false">
 <![CDATA[
         <b>DashClock for Facebook</b>&nbsp;<font color="#888888">v%1$s</font>
@@ -28,67 +28,67 @@
     </string>
     <string name="about_body">
 <![CDATA[
-        Many thanks to:<br>
-        <b><a href="http://code.google.com/p/dashclock/">DashClock</a></b><i> by Roman Nurik</i><br>
-        <b><a href="https://github.com/MartinvanZ/Inscription">Inscription</a></b><i> By Martin van Zuilekom</i><br>
-        <b><a href="https://github.com/facebook/facebook-android-sdk">Facebook Android SDK</a></b><i> by Facebook</i><br>
-        <b>John Seidner</b> for the updated Icons<br>
-        <b>Niek Haarman</b> for the Dutch translation<br>
-        <b>Andrea Baccega</b> for the Italian translation<br>
-        <b>Goddchen</b> for the German translation<br><br>
-        <a href="https://play.google.com/store/apps/details?id=com.brennasoft.dashclockfacebookextension">Rate/Review</a><br>
-        <a href="https://bitbucket.org/rpond/dashclockfacebookextension/">Feature Requests/Issues</a><br>
-        <a href="http://play.google.com/store/apps/developer?id=BrennaSoft">More Apps by Brennasoft</a><br>
+        Agradeciendo a:<br>
+        <b><a href="http://code.google.com/p/dashclock/">DashClock</a></b><i> por Roman Nurik</i><br>
+        <b><a href="https://github.com/MartinvanZ/Inscription">Inscription</a></b><i> por Martin van Zuilekom</i><br>
+        <b><a href="https://github.com/facebook/facebook-android-sdk">Facebook Android SDK</a></b><i> por Facebook</i><br>
+        <b>John Seidner</b> por los iconos actualizados<br>
+        <b>Niek Haarman</b> por la traducción a Holandéz<br>
+        <b>Andrea Baccega</b> por la traducción a Italiano<br>
+        <b>Goddchen</b> por la traducción a Alemán<br><br>
+        <a href="https://play.google.com/store/apps/details?id=com.brennasoft.dashclockfacebookextension">Calificar/Comentar</a><br>
+        <a href="https://bitbucket.org/rpond/dashclockfacebookextension/">Nuevas Solicitudes/Problemas</a><br>
+        <a href="http://play.google.com/store/apps/developer?id=BrennaSoft">Más aplicaciones por Brennasoft</a><br>
         <i><a href="mailto:support@brennasoft.com?subject=DashClockFacebookExtension">support@brennasoft.com</a></i><br>
     ]]>
     </string>
-    <string name="close">Close</string>
-    <string name="about">About</string>
-    <string name="changelog">Changelog</string>
+    <string name="close">Cerrar</string>
+    <string name="about">Acerca de</string>
+    <string name="changelog">Lista de Cambios</string>
     <string name="pref_key_show_always" translatable="false">pref_key_show_always</string>
-    <string name="title_show_always">Always show extension</string>
-    <string name="summary_show_always">Always show extension even when there aren\'t any notifications</string>
+    <string name="title_show_always">Mostrar siempre la extensión</string>
+    <string name="summary_show_always">Mostrar siempre la extensión, incluso cuando no existan notificaciones</string>
     <string name="pref_key_app" translatable="false">pref_key_app</string>
-    <string name="title_app">Choose preferred app</string>
+    <string name="title_app">Elige aplicación preferida</string>
     <string name="pref_key_app_component_name" translatable="false">pref_key_app_component_name</string>
-    <string name="donate">Support/Donate</string>
+    <string name="donate">Apoyo/Donaciones</string>
 
     <string-array name="donate_texts">
-        <item>Buy me a coffee (7-11) - $1</item>
-        <item>Buy me a coffee (Starbucks) - $3</item>
-        <item>Buy me a beer - $5</item>
+        <item>Invitame a un café (7-11) - $1</item>
+        <item>Invitame a un café (Starbucks) - $3</item>
+        <item>Invitame a una cerveza - $5</item>
     </string-array>
 
     <string name="donate_header">
-<![CDATA[<h4>Why donate?</h4>
-It would totally make my day and put a smile on my face.<br>
-It will motivate me to keep going, and keep improving the app.<br>
-Thanks!
+<![CDATA[<h4>¿Por qué Donar?</h4>
+Alegraría por completo mi día y pondrías una sonrisa en mi rostro.<br>
+Me motivará a seguir adelante y mejorar esta aplicación.<br>
+Muchas gracias!
 ]]>
     </string>
     <string name="facebook_component_name" translatable="false">com.facebook.katana/com.facebook.katana.IntentUriHandler</string>
 
     <plurals name="message">
-        <item quantity="one">1 Message</item>
-        <item quantity="other">%d Messages</item>
+        <item quantity="one">1 Mensaje</item>
+        <item quantity="other">%d Mensajes</item>
     </plurals>
     <plurals name="notification">
-        <item quantity="one">1 Notification</item>
-        <item quantity="other">%d Notifications</item>
+        <item quantity="one">1 Notificación</item>
+        <item quantity="other">%d Notificaciones</item>
     </plurals>
 
-    <string name="message_condensed">Mail: <xliff:g id="mailCount">%d</xliff:g></string>
-    <string name="updates_condensed">Updates: <xliff:g id="updateCount">%d</xliff:g></string>
-    <string name="expires">Facebook session expires today, Please login again in settings</string>
+    <string name="message_condensed">Correo: <xliff:g id="mailCount">%d</xliff:g></string>
+    <string name="updates_condensed">Actualizaciones: <xliff:g id="updateCount">%d</xliff:g></string>
+    <string name="expires">La sesión de Facebook expira el día de hoy, Por favor inicia nuevamente sesión desde las configuraciones</string>
     <string name="pref_key_mobile_site" translatable="false">pref_key_mobile_site</string>
-    <string name="title_mobile_site">Use Mobile Site</string>
-    <string name="summary_mobile_site">Use Mobile when viewing with browser</string>
+    <string name="title_mobile_site">Usar Sitio Móvil</string>
+    <string name="summary_mobile_site">Usa el sitio Móvil cuando se visualiza en el navegador</string>
     <string name="pref_key_display_style" translatable="false">pref_key_display_style</string>
-    <string name="title_display_style">Display Style</string>
+    <string name="title_display_style">Estilo de Pantalla</string>
 
     <string-array name="display_style_names">
-        <item>Default</item>
-        <item>Condensed</item>
+        <item>Por Defecto</item>
+        <item>Condensado</item>
     </string-array>
     <string-array name="display_style_values" translatable="false">
         <item>0</item>
@@ -96,19 +96,19 @@ Thanks!
     </string-array>
 
     <string name="pref_key_include_preview" translatable="false">pref_key_include_preview</string>
-    <string name="title_include_preview">Include Preview</string>
-    <string name="summary_include_preview">Include preview of latest update on lockscreen</string>
-    <string name="pref_category_display">Display</string>
-    <string name="pref_category_app">Launch App</string>
-    <string name="login_failure">Login Failed, Please check your network connection and try again.</string>
+    <string name="title_include_preview">Incluir Vista Previa</string>
+    <string name="summary_include_preview">Muestra una vista previa de la última actualización en la pantalla de bloqueo</string>
+    <string name="pref_category_display">Pantalla</string>
+    <string name="pref_category_app">Ejecutar aplicación</string>
+    <string name="login_failure">Inicio de sesión fallido, Favor revisar las conexiones de red e intentar nuevamente.</string>
     <string name="pref_key_display_header" translatable="false">pref_key_display_header</string>
     <string name="pref_key_clear_notifications" translatable="false">pref_key_clear_notifications</string>
-    <string name="title_clear_notifications">Clear notifications</string>
+    <string name="title_clear_notifications">Limpiar notificaciones</string>
     <string name="pref_key_launch_messenger_on_message" translatable="false">pref_key_launch_messenger_on_message</string>
-    <string name="title_launch_messenger_on_message">Launch Messenger on Message</string>
+    <string name="title_launch_messenger_on_message">Ejecutar Messenger al recibir un mensaje</string>
     <string name="pref_key_update_on_screen_on" translatable="false">pref_key_update_on_screen_on</string>
-    <string name="title_update_on_screen_on">Update on screen on</string>
-    <string name="summary_update_on_screen_on">This may cause increased data usage.</string>
-    <string name="clear_summary">This may not update immediately in the extension and may not clear all notifications.</string>
+    <string name="title_update_on_screen_on">Actualizaciones en pantalla</string>
+    <string name="summary_update_on_screen_on">Esto puede aumentar el uso del plan de datos.</string>
+    <string name="clear_summary">Puede que no se actualice inmediatamente en la extensión y puede no eliminar todas las notificaciones.</string>
 
 </resources>
