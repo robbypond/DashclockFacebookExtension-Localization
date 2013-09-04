@@ -1,9 +1,11 @@
-A <b>DashClock Facebook kiegészítő</b> egy kiegészítő a DashClock nevű alkalmazáshoz, ami megmutatja a legfrissebb Facebook-értesítéseket a zárolt vagy kezdőképernyőn. Megtudod nézni külön az üzeneteket és az értesítéseket, de akár a kettőt együtt is.
+A <b>DashClock Facebook kiegészítő</b> egy kiegészítő a DashClock nevű alkalmazáshoz, ami megmutatja a legfrissebb Facebook értesítéseket a zárolt képernyőn. Meg tudod nézni külön az üzeneteket és az értesítéseket, de akár a kettőt együtt is.
 
-Amikor bejelentkezel, az alkalmazás először a read_mailbox engedélyt kérelmezi az olvasatlan bejövő üzenetek megszámolásához, aztán a manage_notifications engedélyt. Ezeket azért kell külön kérelmezni, mert vagy olvasni vagy közzétenni lehet őket. Az alkalmazás csak és kizárólag olvassa az üzeneteket/értesítéseket. Nem tesz közzé semmit a Facebook-idővonaladon.
+Amikor bejelentkezel, az alkalmazás először a read_mailbox engedélyt kérelmezi az olvasatlan bejövő üzenetek megszámolásához, aztán a manage_notifications engedélyt az értesítések kezeléséhez. Az alkalmazás csak és kizárólag olvassa az üzeneteket és az értesítéseket, nem tesz közzé semmit a Facebook-idővonaladon.
 
 Az alkalmazáshoz a Roman Nurik által készített DashClock Widget szükséges:
 http://play.google.com/store/apps/details?id=net.nurik.roman.dashclock
 
 Hibabejelentés/kérés:
 https://bitbucket.org/rpond/dashclockfacebookextension/issues
+
+Köszönet John Seidnernek a frissített ikonokért!
