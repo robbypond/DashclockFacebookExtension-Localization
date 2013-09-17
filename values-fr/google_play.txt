@@ -1,0 +1,15 @@
+<b>DashClock Facebook Extension</b> est une extension pour DashClock qui vous permet de voir vos notifications Facebook sur votre écran de veille. Vous pouvez voir vos messages ou vos notifications, tout est configurable !
+
+Quand vous vous connectez je demande la permission d'accéder à votre "read_mailbox" permission pour avoir le nombre de messages non-lus et ensuite je demande la permission "manage_notifications". Ces permissions doivent être toutes les deux données car la première lit, la second publie. Mon application ne fait que lire les messages/notifications. Je n'utilise pas les permissions pour publier quoi que ce soit dans votre flux Facebook.
+When you login, first I request the read_mailbox permission to get your inbox unread count, and then I request the manage_notifications permission, these permissions must be requested separate because one is read and the other is publish. My app only reads messages/notifications. I do not use these permissions to publish anything to your facebook feed.
+
+<b>Translations</b>:
+https://github.com/rpond/DashclockFacebookExtension-Localization
+Merci!
+
+DashClock Facebook Extension nécessite DashClock Widget de Roman Nurik: http://play.google.com/store/apps/details?id=net.nurik.roman.dashclock
+
+Communiquer un bug/Réclamer une fonctionnalité:
+https://bitbucket.org/rpond/dashclockfacebookextension/issues
+
+Merci à John Seidner pour les icones améliorées!
