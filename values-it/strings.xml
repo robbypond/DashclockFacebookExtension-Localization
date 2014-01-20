@@ -43,7 +43,7 @@
     </string-array>
 
     <string name="donate_header">
-<![CDATA[<h4>Perchè donare?</h4>
+<![CDATA[<h4>Perché donare?</h4>
 Mi metterà un sorriso in volto.<br>
 Mi motiverà nel continuare ad aggiornare e migliorare l\'applicazione.<br>
 Grazie!
@@ -81,6 +81,7 @@ Grazie!
     <string name="summary_update_on_screen_on">This may cause increased data usage.</string>
     <string name="clear_summary">This may not update immediately in the extension and may not clear all notifications.</string>
     <string name="title_notification_applications">Applications included</string>
+    <string name="pref_category_filter">Notification Filter</string>
     <string name="summary_filter_notifications">Filter Notifications by Application</string>
     <string name="title_filter_notifications">Filter Notifications</string>
     <string name="summary_website_notifications">Open notifications when using browser</string>

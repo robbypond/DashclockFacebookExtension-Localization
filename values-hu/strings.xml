@@ -37,7 +37,7 @@
     <string name="donate">Támogatás/Adományozás</string>
 
     <string-array name="donate_texts">
-        <item>Vegyél nekem egy olcsóbb kávét (7-11) - 1$</item>
+        <item>Vegyél nekem egy olcsóbb kávét (7–11) - 1$</item>
         <item>Vegyél nekem egy drágább kávét (Starbucks) - 3$</item>
         <item>Vegyél nekem egy jófajta sört - 5$</item>
     </string-array>
@@ -51,11 +51,9 @@ Köszönöm!
     </string>
 
     <plurals name="message">
-        <item quantity="one">1 üzenet</item>
         <item quantity="other">%d üzenet</item>
     </plurals>
     <plurals name="notification">
-        <item quantity="one">1 értesítés</item>
         <item quantity="other">%d értesítés</item>
     </plurals>
 
@@ -82,6 +80,7 @@ Köszönöm!
     <string name="summary_update_on_screen_on">Ez növelheti az adatforgalmat.</string>
     <string name="clear_summary">Előfordulhat, hogy nem fog azonnal frissülni a bővítmény, vagy nem törli egyből az értesítéseket.</string>
     <string name="title_notification_applications">Értesítések típusai</string>
+    <string name="pref_category_filter">Notification Filter</string>
     <string name="summary_filter_notifications">Értesítések szűrése típus alapján</string>
     <string name="title_filter_notifications">Értesítések szűrése</string>
     <string name="summary_website_notifications">Értesítések megnyitása böngésző használatakor</string>
