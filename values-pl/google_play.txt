@@ -1,0 +1,14 @@
+<b>Rozszerzenie DashClock Facebook</b> jest rozszerzeniem dla aplikacji DashClock, które pozwala szybko zaobczyć ostatnie powiadomienia z Facebooka na ekranie blokady. Można zobaczyć zarówno wiadomości, jak i powiadomienia, oraz jedne i drugie - poprzez Ustawienia.
+
+Podczas logowania, najpierw wymagane jest uprawnienie read_mailbox do sprawdzenia liczby nieprzeczytanych wiadomości w skrzynce odbiorczej, a później uprawnienie manage_notifications, te uprawnienia są wymagane z osobna, ponieważ pierwsze jest do odczytu, drugie do publikacji. Aplikacja odczytuje tylko wiadomości/powiadomienia. Nie używa tych uprawnień do publikacji czegokolwiek na Facebooku.
+
+<b>Tłumaczenia</b>:
+https://github.com/rpond/DashclockFacebookExtension-Localization
+Dzięki!
+
+Rozszerzenie DashClock Facebook wymaga DashClock Widget autorstwa Romana Nurika: http://play.google.com/store/apps/details?id=net.nurik.roman.dashclock
+
+Zgłoś błędy/prośby:
+https://bitbucket.org/rpond/dashclockfacebookextension/issues
+
+Podziękowania dla Johna Seidnera za aktualizację ikon!
